@@ -1,4 +1,5 @@
-openstack korea 에 기여한 코드들 모음 
+openstack korea 에 기여한 분석글을 pork함. 
+필요하면 여기서 업데이트 
 
 magnum 관련 url 
 MagnumWiki: https://wiki.openstack.org/wiki/Magnum
